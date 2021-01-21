@@ -2,4 +2,4 @@
 
 A coming soon website template made with HTML.
 
-Downloaded from: [https://colorlib.com](ColorLib)
+Downloaded from: [ColorLib](https://colorlib.com)
