@@ -1,2 +1,5 @@
-# coming-soon-website-template
-A coming soon website template
+# Coming Soon Website Teplate
+
+A coming soon website template made with HTML.
+
+Downloaded from: [https://colorlib.com](ColorLib)
